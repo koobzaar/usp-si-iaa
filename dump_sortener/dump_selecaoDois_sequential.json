@@ -1,0 +1,8 @@
+{
+    "selecao": "selecaoDois",
+    "modoUsadoNaGeracao": "sequential",
+    "codificacaoUsadaNaGeracao": "utf8",
+    "diretorioUsadoNaGeracao": "./num",
+    "numeroRetornadoDaSelecao": [442, 442, 442, 442, 442, 442],
+    "tempoAlgoritmo": ["50000: 14.81169999949634", "100000: 1.495500000193715", "500000: 13.132799999788404", "1000000: 14.518400000408292", "5000000: 93.7354000005871", "10000000: 267.5168000012636"]
+}
